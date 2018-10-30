@@ -18,9 +18,9 @@ public class FirstHw {
 	
     c=a+b;
     
-	System.out.println("сума квадратів дорівнює "+ a);
-	System.out.println( "добуток чисел дорівнює " + b);
-	System.out.println("сума а+b доівнює " + c);
+	System.out.println("A = "+ a);
+	System.out.println( "B = " + b);
+	System.out.println("C = " + c);
 	}
 	
 }
